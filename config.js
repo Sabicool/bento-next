@@ -11,8 +11,8 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: "John",
-  openInNewTab: true,
+  name: "Sabiqul",
+  openInNewTab: false,
   title: "Bento",
 
   // Clock
@@ -20,7 +20,7 @@ const CONFIG = {
   flashSeparator: false,
   
   // Theme
-  theme: "bento",
+  theme: "catppuccin-mocha",
   imageBackground: false,
   imageUrl: "background.jpg", // place in ./src/assets/images/ and provide the file name. Alternatively, provide a URL to an image. If the page is served over https, you may have issues loading images from insecure origins.
   themes: [   // List of installed themes, add your own themes in ./src/assets/css/themes and include it in the array below.
